@@ -1,5 +1,8 @@
-Cookbook to notify Chatwork of deployment simply
+Opsworks Chatwork
 ==================
+Cookbook to notify Chatwork of deployment simply
+
+
 Requirements
 ------------
 - Opsworks(AWS)
