@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 node[:deploy].each do |application, deploy|
   token = deploy[:chatwork_token]
   room  = deploy[:chatwork_room_id]
